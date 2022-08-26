@@ -1,5 +1,6 @@
 # jpegdecoder-systemverilog
 JPEG Decoder in SystemVerilog
+
 Pre-requisites:
 - Linux OS (if you dont have Linux you can run this on WSL2)
 - Verilator or any other simulation tool
