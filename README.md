@@ -8,5 +8,6 @@ Pre-requisites:
 How to run:
 - Clone the repository in a directory and place the desired image in it
 - In tb_image.cpp give the image's filename
-- Run sos_decoding.sv which is the final step
-- This will give you the decoded image data
+- Run `make verilate`, then `make build`
+
+This will give you the decoded image data
